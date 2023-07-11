@@ -28,12 +28,12 @@ Please folow the steps below to run the test suite:
 4. Right click on "testng.xml" and Run (The File is located at /src/test/resources/testng.xml)
 
 This will execute the test and output results will populate in the Run console
-
+```
 ===============================================
 Suite
 Total tests run: 1, Failures: 0, Skips: 0
 ===============================================
-
+```
  Or 
    Open the cmd and Navigat to the project path usinf cd <Project _path>
    Execute the "testng.xml"
